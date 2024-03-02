@@ -4,7 +4,7 @@
 Soy un estudiante de **18 años** en el **tercer semestre** del programa de **Desarrollo de Sistemas de Información** en el **Politécnico Colombiano Jaime Isaza Cadavid**, ubicado en **Medellín, Colombia**. Mi pasión por la programación me ha llevado a explorar diferentes lenguajes y tecnologías.
 
 ## Conocimientos y Experiencia
-- **Python**: He trabajado en proyectos utilizando Python, especialmente en el desarrollo de aplicaciones y scripts.
+- **Python**: He trabajado en proyectos utilizando Python, especialmente en el desarrollo de aplicaciones.
 - **Java**: Tengo conocimientos en Java y he desarrollado aplicaciones utilizando este lenguaje.
 - **HTML y CSS**: También tengo experiencia en diseño web utilizando HTML y CSS.
 
@@ -15,7 +15,7 @@ Soy un estudiante de **18 años** en el **tercer semestre** del programa de **De
 - **Funcionalidades**:
     - Ver libros en el inventario.
     - Búsqueda de usuarios.
-    - Operaciones CRUD (crear, leer, actualizar, eliminar).
+    - Operaciones CRUD.
 
 ### Academy
 - **Descripción**: Academy es una plataforma para profesores y estudiantes. Permite a los profesores crear módulos de contenido para explicar temas a los estudiantes.
